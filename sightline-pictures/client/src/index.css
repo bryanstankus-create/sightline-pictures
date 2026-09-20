@@ -223,6 +223,14 @@
     background: radial-gradient(ellipse at center, transparent 40%, rgba(13, 11, 9, 0.7) 100%);
   }
 
+  /* Hide the hero scroll indicator on short viewports so it can never
+     overlap the centered hero content (logo/tagline/button) */
+  @media (max-height: 700px) {
+    .hero-scroll-indicator {
+      display: none;
+    }
+  }
+
   /* Section fade-in animation */
   .fade-in-up {
     opacity: 0;

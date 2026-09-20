@@ -135,7 +135,7 @@ export default function Home() {
         <div className="absolute inset-0 vignette" />
 
         {/* Hero content */}
-        <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
+        <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6 pb-24 md:pb-28">
           <img
             src={LOGO_GOLD}
             alt="Sightline Pictures"
@@ -173,7 +173,7 @@ export default function Home() {
 
         {/* Scroll indicator */}
         <div
-          className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
+          className="hero-scroll-indicator absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
           style={{ animation: "fadeIn 2s ease 1.5s both" }}
         >
           <span

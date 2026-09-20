@@ -9,7 +9,7 @@ import Footer from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const PAGE_HERO =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sunrise-8675236_9a87e028.webp";
+  "/images/sunrise-8675236.webp";
 
 const services = [
   {

@@ -9,11 +9,11 @@ import Footer from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const PAGE_HERO =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sky-2479213_c85d9316.webp";
+  "/images/sky-2479213.webp";
 const BRYAN_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/bryan-stankus-headshot_e8441f4f.jpg";
+  "/images/bryan-stankus-headshot.webp";
 const COMPANY_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/mountains-6818253_00dcceef.webp";
+  "/images/mountains-6818253.webp";
 
 
 export default function About() {

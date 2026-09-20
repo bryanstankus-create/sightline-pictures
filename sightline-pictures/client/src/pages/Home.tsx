@@ -12,29 +12,29 @@ import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 // CDN Assets
 const HERO_BG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/cliff-twilight-hero_6a371640.jpg"; // dark sea cliff at twilight — naturally dark with thin amber horizon
+  "/images/cliff-twilight-hero.webp"; // dark sea cliff at twilight — naturally dark with thin amber horizon
 const LOGO_GOLD =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/LOGO_GoldCropped_dd4aba0c.png";
+  "/images/logo-gold.png";
 const LOGO_WHITE =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/LOGO_WhiteNoBackground-05_588ce898.png";
+  "/images/logo-white.png";
 const ABOUT_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/yosemite-922757_22427a63.webp";
+  "/images/yosemite-922757.webp";
 const SUNRISE_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sunrise-8901014_5c423ce6.webp";
+  "/images/sunrise-8901014.webp";
 const PROJECT_1_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sunrise-8188929_f848556a.webp"; // COVE Feature Film
+  "/images/sunrise-8188929.webp"; // COVE Feature Film
 const PROJECT_2_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/henry-forest_1e54ff0f.jpg"; // Henry and the Silver Forest
+  "/images/henry-forest.webp"; // Henry and the Silver Forest
 const PROJECT_3_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/solar-cell-4045029_85b01459.webp"; // COVE Documentary
+  "/images/solar-cell-4045029.webp"; // COVE Documentary
 const PROJECT_4_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/the-return-landscape_2e6fd4cb.jpg"; // The Return
+  "/images/the-return-landscape.webp"; // The Return
 const PROJECT_5_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/spring-4267503_f2ab4b33.webp"; // Daktari
+  "/images/spring-4267503.webp"; // Daktari
 const PROJECT_6_IMG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/waves-8585265_029c4d63.webp"; // Living with Great Whites
+  "/images/waves-8585265.webp"; // Living with Great Whites
 const CTA_BG =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sunrise-8675236_9a87e028.webp";
+  "/images/sunrise-8675236.webp";
 
 const projects = [
   {

@@ -8,7 +8,7 @@ import { useEffect, useState } from "react";
 import { Link, useLocation } from "wouter";
 
 const LOGO_WHITE =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/LOGO_WhiteNoBackground-05_588ce898.png";
+  "/images/logo-white.png";
 
 const navLinks = [
   { label: "About", href: "/about" },

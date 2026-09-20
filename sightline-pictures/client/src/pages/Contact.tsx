@@ -10,7 +10,7 @@ import Footer from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const PAGE_HERO =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sunrise-8188929_f848556a.webp";
+  "/images/sunrise-8188929.webp";
 
 export default function Contact() {
   const [formState, setFormState] = useState({

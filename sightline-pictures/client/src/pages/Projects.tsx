@@ -17,21 +17,21 @@ import Footer from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const PAGE_HERO =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/solar-cell-4045029_85b01459.webp";
+  "/images/solar-cell-4045029.webp";
 
 // CDN image references
 const IMG_SUNRISE =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/sunrise-8188929_f848556a.webp"; // warm sunrise — COVE Feature Film
+  "/images/sunrise-8188929.webp"; // warm sunrise — COVE Feature Film
 const IMG_HENRY =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/henry-forest_1e54ff0f.jpg"; // golden meadow — Henry
+  "/images/henry-forest.webp"; // golden meadow — Henry
 const IMG_SOLAR =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/solar-cell-4045029_85b01459.webp"; // solar panels — COVE Documentary
+  "/images/solar-cell-4045029.webp"; // solar panels — COVE Documentary
 const IMG_THE_RETURN =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/the-return-landscape_2e6fd4cb.jpg"; // dramatic Icelandic landscape — The Return
+  "/images/the-return-landscape.webp"; // dramatic Icelandic landscape — The Return
 const IMG_DAKTARI =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/spring-4267503_f2ab4b33.webp"; // figure in haze — Daktari
+  "/images/spring-4267503.webp"; // figure in haze — Daktari
 const IMG_SHARKS =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/waves-8585265_029c4d63.webp"; // crashing ocean waves — Living with Great Whites
+  "/images/waves-8585265.webp"; // crashing ocean waves — Living with Great Whites
 
 const projects = [
   {

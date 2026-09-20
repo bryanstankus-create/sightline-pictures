@@ -7,7 +7,7 @@
 import { Link } from "wouter";
 
 const LOGO_GOLD =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663484975968/GHiwpBE3WhpYdjDoRCvc6Y/LOGO_GoldCropped_dd4aba0c.png";
+  "/images/logo-gold.png";
 
 export default function Footer() {
   const year = new Date().getFullYear();

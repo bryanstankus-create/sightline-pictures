@@ -4,9 +4,9 @@
  * Cinematic project cards with full-bleed imagery and editorial alternating layout
  *
  * Project order (as of latest update):
- *   01 — COVE (Feature Film) — highest priority, scripted
+ *   01 — The Sun Machine (Feature Film) — highest priority, scripted
  *   02 — Henry and the Silver Forest (Feature Film) — coming-of-age
- *   03 — COVE (Feature Documentary) — ocean/solar/renewable energy
+ *   03 — The Lost Century (Feature Documentary) — ocean/solar/renewable energy
  *   04 — The Return (Feature Documentary) — directed by Brian Skerry
  *   05 — Daktari (Documentary Series) — Africa wildlife vets
  *   06 — Living with Great Whites (Feature Documentary) — sharks / ocean waves
@@ -36,12 +36,12 @@ const IMG_SHARKS =
 const projects = [
   {
     id: "01",
-    title: "Cove",
+    title: "The Sun Machine",
     subtitle: "Feature Film",
     status: "Currently in Development",
     image: IMG_SUNRISE,
     description:
-      "A scripted feature film rooted in the fight for our oceans. Written by Charles Leavitt, the acclaimed screenwriter behind Blood Diamond, Cove weaves a dramatic, character-driven narrative around the environmental and human stakes of coastal conservation.",
+      "Based on a shocking true story, George Cove, the brilliant inventor of the world's first solar panel, is set to alter the course of human history, until his mysterious kidnapping by powerful corporate titans ushers in more than a century of fossil fuel dominance. Written by Charles Leavitt, the acclaimed screenwriter behind Blood Diamond, The Sun Machine expertly weaves a conspiracy thriller with real corporate espionage into a compelling, dramatic, character-driven narrative.",
     writer: "Charles Leavitt",
     writerCredits: "Blood Diamond",
     tags: ["Scripted", "Drama", "Ocean"],
@@ -62,7 +62,7 @@ const projects = [
   },
   {
     id: "03",
-    title: "George Cove & the Lost Century",
+    title: "The Lost Century",
     subtitle: "Feature Documentary",
     status: "Currently in Development",
     image: IMG_SOLAR,

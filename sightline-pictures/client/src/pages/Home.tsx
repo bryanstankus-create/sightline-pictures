@@ -54,7 +54,7 @@ const projects = [
     writer: "David Fowler",
   },
   {
-    title: "George Cove & the Lost Century",
+    title: "The Lost Century",
     type: "Feature Documentary",
     status: "In Development",
     image: PROJECT_3_IMG,

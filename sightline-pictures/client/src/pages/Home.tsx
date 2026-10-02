@@ -38,11 +38,11 @@ const CTA_BG =
 
 const projects = [
   {
-    title: "Cove",
+    title: "The Sun Machine",
     type: "Feature Film",
     status: "In Development",
     image: PROJECT_1_IMG,
-    description: "A scripted drama rooted in the fight for our oceans.",
+    description: "Based on a shocking true story, George Cove, the brilliant inventor of the world's first solar panel, is set to alter the course of human history, until his mysterious kidnapping by powerful corporate titans ushers in more than a century of fossil fuel dominance.",
     writer: "Charles Leavitt",
   },
   {
